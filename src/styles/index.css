@@ -1,4 +1,10 @@
+.showButton:hover > .hideButton {
+    visibility: visible;
+}
 
+.hideButton {
+    visibility: hidden;
+}
 /* 
 
     You can write your own styles here...
